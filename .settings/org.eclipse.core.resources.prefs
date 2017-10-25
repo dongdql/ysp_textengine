@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/iie/gxb/textengine/DB/DBProcess.java=UTF-8
+encoding//src/main/java/com/iie/gxb/textengine/DB/DBProcessInsert.java=UTF-8
+encoding//src/main/java/com/iie/gxb/textengine/DB/DBUtil.java=UTF-8
+encoding//src/main/java/com/iie/gxb/textengine/DB/InsertResult.java=UTF-8
+encoding//src/main/java/com/iie/gxb/textengine/DB/JudgeCombination.java=UTF-8
+encoding//src/main/java/com/iie/gxb/textengine/DB/postResult.java=UTF-8
+encoding//src/main/java/com/iie/gxb/textengine/DB/preProcess.java=UTF-8
+encoding//src/main/java/com/iie/gxb/textengine/extract/ExtractText.java=UTF-8
+encoding//src/main/java/com/iie/gxb/textengine/keyword/KeywordMatch.java=UTF-8

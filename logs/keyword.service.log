@@ -1,0 +1,15 @@
+2017-08-16 15:44:00,829 INFO [com.iie.gxb.textengine.main.textEngine][Timer-0]128 - <****************************启动本次引擎任务****************************>
+2017-08-16 15:44:05,228 INFO [com.iie.gxb.textengine.DB.DBUtil][Timer-0]26 - <---success on db Connection--->
+2017-08-16 15:44:05,228 INFO [com.iie.gxb.textengine.main.textEngine][Timer-0]62 - <***获取黑名单***>
+2017-08-16 15:44:06,258 INFO [com.iie.gxb.textengine.DB.DBUtil][Timer-0]90 - <获取关键词数目：2152>
+2017-08-16 15:44:06,258 INFO [com.iie.gxb.textengine.main.textEngine][Timer-0]65 - <***获取白名单***>
+2017-08-16 15:44:07,663 INFO [com.iie.gxb.textengine.DB.DBUtil][Timer-0]90 - <获取关键词数目：1899>
+2017-08-16 15:44:07,788 INFO [com.iie.gxb.textengine.DB.preProcess][Timer-0]88 - <单个关键词个数：1933>
+2017-08-16 15:44:07,788 INFO [com.iie.gxb.textengine.DB.preProcess][Timer-0]97 - <组合关键词个数：441>
+2017-08-16 15:44:08,538 INFO [com.iie.gxb.textengine.keyword.KeyWordSource][Timer-0]37 - < make keyword tree success!>
+2017-08-16 15:44:08,834 INFO [com.iie.gxb.textengine.keyword.KeyWordSource][Timer-0]37 - < make keyword tree success!>
+2017-08-16 15:44:08,850 INFO [com.iie.gxb.textengine.DB.preProcess][Timer-0]88 - <单个关键词个数：456>
+2017-08-16 15:44:08,850 INFO [com.iie.gxb.textengine.DB.preProcess][Timer-0]97 - <组合关键词个数：2897>
+2017-08-16 15:44:09,117 INFO [com.iie.gxb.textengine.keyword.KeyWordSource][Timer-0]37 - < make keyword tree success!>
+2017-08-16 15:44:09,320 INFO [com.iie.gxb.textengine.keyword.KeyWordSource][Timer-0]37 - < make keyword tree success!>
+2017-08-16 15:44:09,320 INFO [com.iie.gxb.textengine.main.textEngine][Timer-0]101 - <create_time: 2017-08-16 11:40:33 -- 2017-08-16 15:44:09>

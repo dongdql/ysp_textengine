@@ -1,0 +1,8 @@
+2017-03-31 10:38:29,399 INFO [com.iie.gxb.textengine.main.textEngine][Timer-0]130 - <****************************启动本次引擎任务****************************>
+2017-03-31 10:38:34,915 INFO [com.iie.gxb.textengine.DB.DBUtil][Timer-0]26 - <---success on db Connection--->
+2017-03-31 10:38:34,915 INFO [com.iie.gxb.textengine.main.textEngine][Timer-0]61 - <***获取黑名单***>
+2017-03-31 10:38:35,503 INFO [com.iie.gxb.textengine.DB.DBUtil][Timer-0]90 - <获取关键词数目：2090>
+2017-03-31 10:38:35,504 INFO [com.iie.gxb.textengine.main.textEngine][Timer-0]64 - <***获取白名单***>
+2017-03-31 10:38:35,783 INFO [com.iie.gxb.textengine.DB.DBUtil][Timer-0]90 - <获取关键词数目：1866>
+2017-03-31 10:38:35,871 INFO [com.iie.gxb.textengine.DB.preProcess][Timer-0]90 - <单个关键词个数：2009>
+2017-03-31 10:38:35,872 INFO [com.iie.gxb.textengine.DB.preProcess][Timer-0]99 - <组合关键词个数：164>

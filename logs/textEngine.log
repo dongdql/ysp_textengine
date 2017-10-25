@@ -1,0 +1,9 @@
+2016-05-08 11:34:04,402 INFO [keyword.KeyWordSource][main]37 - < make keyword tree success!>
+2016-05-08 11:34:04,405 INFO [cycleTextEngine][main]56 - <任务结束.......>
+2016-05-08 11:34:04,405 INFO [cycleTextEngine][Timer-0]40 - <文本引擎本次任务开始........>
+2016-05-08 11:34:04,418 INFO [Main.textEngineMain][Timer-0]32 - <成功加载文本_MySQL驱动程序>
+2016-05-08 11:34:12,749 INFO [Main.textEngineMain][Timer-0]40 - <获取文本_MySQL数据......>
+2016-05-08 11:34:13,062 INFO [Main.textEngineMain][Timer-0]45 - <获取数据成功......>
+2016-05-08 11:34:13,075 INFO [Main.textEngineMain][Timer-0]120 - <BH:MIAOPAI20160506133328131018 keyword are:[志愿者]>
+2016-05-08 11:34:13,129 INFO [Main.textEngineMain][Timer-0]145 - <已完成比对任务，并更新了文本_Mysql>
+2016-05-08 11:34:13,130 INFO [cycleTextEngine][Timer-0]49 - <本次文本比对任务完成 !!!>
